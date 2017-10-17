@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<h1>Welcome to the Data Science and Machine Learning course</h1>
-		<p>This course deals with the basic aspects of the machine learning: supervised and unsupervised learning, with the help of python.</p>12:33 AM 10/18/2017
+		<p>This course deals with the basic aspects of the machine learning: supervised and unsupervised learning, with the help of python.</p>
 		<p>This course is still under development and all the files will be uploaded shortly.</p>
 		<p>This course contains the pynb(Python notebooks) for the following topics</p>
 		<h4>Libraries:</h4>
